@@ -8,4 +8,6 @@
     <dimen name="button_size_home">90dp</dimen>
     <dimen name="padding_top_bottom_button">28dp</dimen>
     <dimen name="padding_bottom_between_button">6dp</dimen>
+    <dimen name="pad_margin">20dp</dimen>
+    <dimen name="pad_edge">10dp</dimen>
 </resources>

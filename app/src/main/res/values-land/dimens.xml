@@ -2,4 +2,6 @@
     <dimen name="fab_margin">48dp</dimen>
     <dimen name="button_size_home">8dp</dimen>
     <dimen name="padding_top_bottom_button">28dp</dimen>
+    <dimen name="pad_margin">20dp</dimen>
+    <dimen name="pad_edge">10dp</dimen>
 </resources>
